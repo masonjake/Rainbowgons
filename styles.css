@@ -1,0 +1,14 @@
+#ball {
+    background-color: aqua;
+    border-radius: 50%;
+    height: 100px;
+    width:100px;
+    position:absolute;
+    left:0px;
+    top:0px;
+}
+h1 {
+    position: relative;
+    left: 50%;
+    top: 50%;
+}
